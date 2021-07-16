@@ -12,6 +12,10 @@ inputs:
     description: 'Issue tracker type'
     required: true
     default: jira
+  type:
+    description: 'Verifies pull request title'
+    required: true
+    default: true
 
 runs:
   using: 'node12'

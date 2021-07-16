@@ -15,3 +15,4 @@ steps:
 ## Inputs
 
 `type` - type of issue tracker - default - `jira`
+`verify_title` - Verifies pull request title - default - `true`
