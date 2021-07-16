@@ -12,7 +12,7 @@ inputs:
     description: 'Issue tracker type'
     required: true
     default: jira
-  type:
+  verify_title:
     description: 'Verifies pull request title'
     required: true
     default: true
